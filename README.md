@@ -13,6 +13,6 @@ garfunkel
  game could use some kind of a pause at the beginning of each round.
  
  FWIW, I have tested it on my Galaxy S2, which is currently running
- CyanogenMod 10.1.1 (Android 4.2.2).  Everything works, except the lowest tone
+ CyanogenMod 10.1.2 (Android 4.2.2).  Everything works, except the lowest tone
  that plays when the yellow square is tapped is nearly inaudible when played
  through my phone's speaker.
