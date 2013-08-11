@@ -1,7 +1,7 @@
 garfunkel
 =========
 
- - A simple clone of a classic memory game.  Android 2.2+ -
+ - A simple clone of a classic memory game.  Android 2.2 and up -
  
  I wrote this mostly to familiarize myself with the Android SDK and Eclipse.
  If you have Eclipse + ADT + 2.2 API, it should build and load.  Currently
