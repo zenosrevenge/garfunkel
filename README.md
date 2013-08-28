@@ -10,7 +10,8 @@ garfunkel
  created some custom sounds for each button in Audacity.  In case anyone cares,
  I think they're in the key of A major.  There are also sounds for winning
  and losing the game, but they play very quickly and are easy to miss.  The
- game could use some kind of a pause at the beginning of each round.
+ game could use some kind of a pause at the beginning of each round and
+ probably some kind of notifications for game start/end, etc.
  
  FWIW, I have tested it on my Galaxy S2, which is currently running
  CyanogenMod 10.1.2 (Android 4.2.2).  Everything works, except the lowest tone
